@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib
+bcrypt
+python-jose
+python-multipart
+
+mysql-connector-python
+psycopg2
+cx_Oracle
+
+redis
+kafka-python
