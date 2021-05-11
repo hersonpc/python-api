@@ -14,6 +14,9 @@ docker pull hersonpc/python-api:latest
 To build manually a local docker image, without downloading it from Docker Hub, you can use:
 ```shell
 docker build -t hersonpc/python-api:latest .
+
+# or just
+make build
 ```
 
 ## Docker compose
