@@ -1,6 +1,7 @@
 fastapi
 uvicorn
 aiofiles
+jinja2
 sqlalchemy
 passlib
 bcrypt
